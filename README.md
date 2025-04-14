@@ -19,5 +19,5 @@
 
 
 - Join discord for free fortnite sources always updated + Fortnite DMA source + always newest offsets
-
+- By Zero & Cypher
 - https://Discord.gg/RealEnigma
