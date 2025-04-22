@@ -1,18 +1,16 @@
 # fortnite
-- newest fortnite offsets 8/4/2025 , 08.04.2025
+- newest fortnite offsets 22/4/2025 , 22.04.2025
 
-- UWorld           = 0x16EB5008
-- GNames           = 0x170BCCC0
-- ProcessEvent     = 0x20F0CF4 (0x20)
-- StaticFindObject = 0x2557834
-- PersistentLevel  = 0x40
-- Actors           = 0x188
-- ActorsCount      = 0x190
-- Levels           = 0x1B0
-- GameState        = 0x198
-- GameInstance     = 0x210
-- CameraLocation   = 0x140
-- CameraRotation   = 0x150
+UWorld           = 0x1782D0B8
+StaticFindObject = 0x282B660
+Levels           = 0x1C0
+GameState        = 0x1A8
+GameInstance     = 0x220
+GNames           = 0x17A32E40
+NamePrivate      = 0xC
+CameraLocation   = 0x148;
+CameraRotation   = 0x158;
+WeaponData       = 0x550;
 
 
 
@@ -21,3 +19,5 @@
 - Join discord for free fortnite sources always updated + Fortnite DMA source + always newest offsets
 - By Zero & Cypher
 - https://Discord.gg/RealEnigma
+
+backup link: https://discord.gg/QkvFb2Nx
