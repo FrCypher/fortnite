@@ -1,17 +1,16 @@
 # fortnite
-- newest fortnite offsets 22/4/2025 , 22.04.2025
-
-- UWorld           = 0x1782D0B8
-- StaticFindObject = 0x282B660
-- Levels           = 0x1C0
-- GameState        = 0x1A8
-- GameInstance     = 0x220
-- GNames           = 0x17A32E40
-- NamePrivate      = 0xC
-- CameraLocation   = 0x148;
-- CameraRotation   = 0x158;
-- WeaponData       = 0x550;
-
+newest offsets 5/2/25
+- UWorld         = 0x176C0298
+- GameInstance   = 0x238
+- GameState      = 0x1C0
+- Location       = 0x160
+- Rotation       = 0x170
+- BoneArray      = 0x5E8
+- BoneArrayCache = 0x5F8
+- Levels         = 0x1D8
+- weapon_data    = 0x618
+- current_weapon = 0xAA8
+- TeamIndex      = 0x1251
 
 
 
