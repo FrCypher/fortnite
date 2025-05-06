@@ -1,5 +1,5 @@
 # fortnite
-newest offsets 5/2/25
+newest offsets 5/6/25
 - UWorld         = 0x17AA2698
 
 
